@@ -5,4 +5,4 @@ Generator network:
 ![Image text](figures/Network.png)
 
 Optimization algorithm:
-![Image text](illustration/Algorithm.png)
+![Image text](figures/Algorithm.png)
