@@ -40,4 +40,16 @@ This repository contains the source code for unsupervised 4D-flow MRI reconstruc
 
 * __IMPORTANT!__   The sample data can be downloaded [here](https://zenodo.org/records/17035692).
 
+# References
 
+* If you find this repo helpful, please cite this work as follows:
+```bibtex
+@article{li2025unsupervised,
+  title={Unsupervised 4D-flow MRI reconstruction based on partially-independent generative modeling and complex-difference sparsity constraint},
+  author={Li, Zhongsen and Sun, Aiqi and Wei, Haining and Chen, Wenxuan and Liu, Chuyu and Sun, Haozhong and Du, Chenlin and Li, Rui},
+  journal={Medical Image Analysis},
+  pages={103769},
+  year={2025},
+  publisher={Elsevier}
+}
+```
