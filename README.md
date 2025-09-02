@@ -38,5 +38,6 @@ This repository contains the source code for unsupervised 4D-flow MRI reconstruc
 * `pretrain.py`: the code for pretraining the generator
 * `finetune.py`: the code of the ADMM algorithm for finetuning the reconstructed images
 
+* __IMPORTANT!__   The sample data can be downloaded [here](https://zenodo.org/records/17035692).
 
 
